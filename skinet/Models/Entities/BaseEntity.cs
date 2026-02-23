@@ -1,4 +1,4 @@
-﻿namespace skinet.Models
+﻿namespace skinet.Models.Entities
 {
     public class BaseEntity
     {
